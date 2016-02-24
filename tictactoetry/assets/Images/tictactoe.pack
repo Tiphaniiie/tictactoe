@@ -1,0 +1,54 @@
+
+tictactoe.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue
+  rotate: false
+  xy: 1, 357
+  size: 486, 120
+  orig: 486, 120
+  offset: 0, 0
+  index: -1
+draw
+  rotate: false
+  xy: 1, 259
+  size: 482, 96
+  orig: 482, 96
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 489, 381
+  size: 480, 96
+  orig: 480, 96
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 259, 97
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 421, 97
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 583, 219
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
